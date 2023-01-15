@@ -12,3 +12,15 @@ The home page of the driveless page is simple and focuses more on the call to ac
 ## Products
 The products page showcases the services and goods the company has to offer to the public with promotions and timelines inclusive.
 <img src="https://github.com/V014/Driverless/blob/main/screenshots/Products.png" alt="screnshot of products"/>
+
+## Newsletters
+The newsletter page will display a call to action that enables addition of a newsletter scheme to a user.
+<img src="https://github.com/V014/Driverless/blob/main/screenshots/Newsletter.png" alt="screnshot of products"/>
+
+## Countdown
+The Newsletter page will display a countdown timer that will expire when the set deadline is reached.
+<img src="https://github.com/V014/Driverless/blob/main/screenshots/countdown.png" alt="screnshot of products"/>
+
+## Setup
+The setup page allows an admin to create a database, it should not be available for the users though.
+<img src="https://github.com/V014/Driverless/blob/main/screenshots/setup.png" alt="screnshot of products"/>
